@@ -1,5 +1,5 @@
 module Bali
   module Activerecord
-    VERSION = "0.1.0"
+    VERSION = "1.0.0rc1"
   end
 end
